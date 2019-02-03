@@ -1,0 +1,4 @@
+Capitulo 02 - Questao 1 (2.16)
+
+Java foi escolhido como tecnologia, pois ela é uma linguagem mais moderna e permite que quem a utiliza possa planejar com mais eficiência o desenvolvimento do projeto.
+E algumas das vantagens dela: não será enganado com prazos exorbitantes; possui medidas boas de segurança, navegabilidade e disponibilidade de serviço.
